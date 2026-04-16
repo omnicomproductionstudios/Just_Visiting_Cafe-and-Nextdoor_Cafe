@@ -19,7 +19,7 @@ body{
 }
 
 .defaultBorder{
-  border: 1px solid #7d7d7d;
+  border: 1px solid #7d7d7d;  
   box-sizing: border-box;
   display: block;
   pointer-events: none;
@@ -71,7 +71,7 @@ ft-default{
 
 .ctaCont {
   height: 25px;
-  left: 1181px;
+  left: 1188px;
   top: 36px;
   width: 16px;
 }
@@ -82,20 +82,20 @@ ft-default{
 
 #fdicLogo{
   height: 29px;
-  left: 1088px;
+  left: 1084px;
   top: 35px;
   width: 46px;
 }
 
 #txt1a {
-  height: 37px;
+  height: 30px;
   left: 0;
-  width: 665px;
+  width: 592px;
 }
 
 .mask {
-  left: 340px;
-  top: 36px;
+  left: 330px;
+  top: 40px;
 }
 
 .mask a {
@@ -103,11 +103,11 @@ ft-default{
 cubic-bezier(0.7, 0.1, 0.1, 0.7) 1s shimmer;
   background-position: -805px 0;
   display: block;
-  height: 37px;
+  height: 30px;
   margin: 0px auto;
   position: relative;
   text-align: center;
-  width: 665px;
+  width: 592px;
 }
 
 #mask-glimmer{
@@ -159,11 +159,9 @@ ft-expand{
 .expCapOneLogo{
   height: 52px;
   left: 784px;
-  top: 24px;
+  top: 23px;
   width: 147px;
   z-index: 399;
-  transform: scale(0.96);
-  transform-origin: left center;
 }
 
 .expCapOneLogo #redSwoop{
@@ -201,44 +199,37 @@ ft-expand{
 }
 
 .txt2a {
-  height: 22px;
-  left: 2px;
-  width: 120px;
+  height: 29px;
+  left: 0px;
+  width: 207px;
 }
 .txt2b {
   height: 21px;
-  left: 0;
-  top: 40px;
-  width: 159px;
+  left: 0px;
+  top: 44px;
+  width: 178px;
 }
 .txt2c {
   height: 28px;
   left: 0px;
-  top: 76px;
-  width: 219px;
+  top: 75px;
+  width: 144px;
 }
-.txt2d {
-  height: 23px;
-  left: 1px;
-  top: 95px;
-  width: 179px;
-}
-
 .exp-mask {
-  left: 785px;
-  top: 129px;
+  left: 787px;
+  top: 131px;
 }
 
 .exp-mask a {
-  animation: 3s 
+     animation: 3s 
 cubic-bezier(0.7, 0.1, 0.1, 0.7) 0.25s expshimmer;
-  background-position: -235px 0;
-  display: block;
-  height: 105px;
-  margin: 0px auto;
-  position: relative;
-  text-align: center;
-  width: 219px;
+    background-position: -235px 0;
+    display: block;
+    height: 102px;
+    margin: 0px auto;
+    position: relative;
+    text-align: center;
+    width: 221px;
 }
 
 #exp-mask-glimmer{
@@ -316,14 +307,14 @@ cubic-bezier(0.7, 0.1, 0.1, 0.7) 0.25s expshimmer;
 
 #fdicLogoExp{
   height: 33px;
-  left: 784px;
+  left: 786px;
   top: 356px;
   width: 53px;
 }
 
 #jeremy{
-  height: 362px;
-  left: 975px;
-  top: 57px;
-  width: 304px;
+  height: 360px;
+  left: 1005px;
+  top: 58px;
+  width: 274px;
 }

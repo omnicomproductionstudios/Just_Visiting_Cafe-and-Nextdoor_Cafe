@@ -33,6 +33,7 @@ function init(){
         .from(one, 0.35,{alpha:0, y:"+=15", ease:'power3.out'}, '<+0.04')
 
         .from(txt1a, 0.4,{alpha:0, x:"+=20", ease:'power1.inOut'}, '<')
+        .from(txt1b, 0.4,{alpha:0, x:"+=20", ease:'power1.inOut'}, '<+0.1')
         .from(".ctaCont", 0.5, {alpha:0, x:"-=10", ease:'power1.inOut', overwrite:0}, '<')
         .call(onMouseEnter, null, '>+2')
         .call(onMouseLeave, null, '>+1');

@@ -90,7 +90,7 @@ ft-default {
 
 .ctaCont {
   height: 25px;
-  right: 64px;
+  right: 54px;
   top: 20px;
   width: 16px;
 }
@@ -102,37 +102,37 @@ ft-default {
 
 #fdicLogo {
   height: 28px;
-  left: 791px;
+  left: 828px;
   top: 19px;
   width: 45px;
 }
 
 #txt1a {
-  height: 28px;
+  height: 24px;
   left: 0;
-  width: 499px;
+  width: 473px;
 }
 
 .mask {
-  left: 230px;
-  top: 21px;
+  left: 231px;
+  top: 25px;
 }
 
 .mask a {
   animation: 3s 
-cubic-bezier(0.7, 0.1, 0.1, 0.7) 0.25s shimmer;
+cubic-bezier(0.7, 0.1, 0.1, 0.7) 1s shimmer;
   background-position: -608px 0;
   display: block;
-  height: 28px;
+  height: 24px;
   margin: 0px auto;
   position: relative;
   text-align: center;
-  width: 499px;
+  width: 473px;
 }
 
-#mask-glimmer {
-  height: 23px;
-  width: 574px;
+#mask-glimmer{
+  height: 48px;
+  width: 215px;
 }
 
 .mask a::after {
@@ -156,6 +156,7 @@ cubic-bezier(0.7, 0.1, 0.1, 0.7) 0.25s shimmer;
     background-position: 608px 0;
   }
 }
+
 
 
 ft-expand {
@@ -220,39 +221,41 @@ ft-expand {
 }
 
 .txt2a {
-  height: 18px;
+  height: 22px;
   left: 0px;
-  width: 95px;
+  width: 166px;
+  top: 0px;
 }
 
 .txt2b {
   height: 17px;
-  left: 0;
-  top: 30px;
-  width: 125px;
+  left: 0px;
+  top: 34px;
+  width: 140px;
 }
 
 .txt2c {
   height: 22px;
   left: 0px;
   top: 58px;
-  width: 172px;
+  width: 114px;
 }
 
 .exp-mask {
-  left: 473px;
+  left: 472px;
   top: 73px;
 }
 
 .exp-mask a {
-  animation: 3s cubic-bezier(0.7, 0.1, 0.1, 0.7) 0.25s expshimmer;
+  animation: 3s 
+cubic-bezier(0.7, 0.1, 0.1, 0.7) 0.25s expshimmer;
   background-position: -250px 0;
   display: block;
   height: 80px;
   margin: 0px auto;
   position: relative;
   text-align: center;
-  width: 172px;
+  width: 166px;
 }
 
 #exp-mask-glimmer {
@@ -316,7 +319,7 @@ ft-expand {
 .ctaExpCont .ctaBtn {
   height: 11px;
   left: 472px;
-  top: 177px;
+  top: 180px;
   width: 87px;
 }
 
@@ -336,14 +339,14 @@ ft-expand {
 
 #fdicLogoExp {
   height: 23px;
-  left: 471px;
-  top: 213px;
+  left: 472px;
+  top: 214px;
   width: 37px;
 }
 
 #jeremy {
-  height: 250px;
-  left: 696px;
-  top: 0px;
-  width: 274px;
+  height: 238px;
+  left: 712px;
+  top: 12px;
+  width: 258px;
 }
